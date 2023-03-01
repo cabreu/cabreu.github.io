@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/articles/</loc>
+    <loc>https://cabreu.github.io/articles/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://cabreu.github.io/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://cabreu.github.io/categories/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://cabreu.github.io/contact/</loc>
   </url><url>
-    <loc>/projects/math-brain-trainer/</loc>
+    <loc>https://cabreu.github.io/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://cabreu.github.io/projects/</loc>
   </url><url>
-    <loc>/articles/article/</loc>
+    <loc>https://cabreu.github.io/articles/article/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://cabreu.github.io/tags/</loc>
   </url><url>
-    <loc>/articles/teste/</loc>
+    <loc>https://cabreu.github.io/articles/teste/</loc>
   </url>
 </urlset>
