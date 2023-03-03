@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cabreu.github.io/about/</loc>
+  </url><url>
     <loc>https://cabreu.github.io/articles/</loc>
   </url><url>
     <loc>https://cabreu.github.io/</loc>
@@ -17,7 +19,5 @@
     <loc>https://cabreu.github.io/articles/article/</loc>
   </url><url>
     <loc>https://cabreu.github.io/tags/</loc>
-  </url><url>
-    <loc>https://cabreu.github.io/articles/teste/</loc>
   </url>
 </urlset>
