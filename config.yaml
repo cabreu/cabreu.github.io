@@ -2,11 +2,10 @@
 # sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 Copyright: © 2023 by Carlos Abreu
 baseURL: https://cabreu.github.io 
-title: Carlos Abreu
+title: Carlos Abreu (CA)
 paginate: 5
 theme: charlolamode
 #publishDir: "docs"
-
 
 menu:
     main:
