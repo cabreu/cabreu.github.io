@@ -5,7 +5,7 @@ baseURL: https://cabreu.github.io
 title: Carlos Abreu
 paginate: 5
 theme: charlolamode
-publishDir: "docs"
+#publishDir: "docs"
 
 
 menu:
