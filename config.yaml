@@ -10,18 +10,18 @@ publishDir: "docs"
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        - name: Projects
-          url: /projects/
-          weight: 15
+        #- name: Contact
+        #  url: /contact/
+        #  weight: 30
+        #- name: Articles
+        #  url: /articles/
+        #  weight: 20
+        #- name: Projects
+        #  url: /projects/
+        #  weight: 15
         - name: About
           url: /about/
-          weight: 15
+          weight: 10
 
      # - name: Categories
         #   url: /categories/
