@@ -1,6 +1,6 @@
 # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your 
 # sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-Copyright: © 2023 by Carlos Abreu
+Copyright: © 2023 by Carlos Abreu · Powered by HUGO
 baseURL: https://cabreu.github.io 
 title: Carlos Abreu
 paginate: 5
