@@ -26,9 +26,9 @@ menu:
         - name: About
           url: /about/
           weight: 10
-        - name: Now
-          url: /now/
-          weight: 20
+        #- name: Now
+        #  url: /now/
+        #  weight: 20
 
      # - name: Categories
         #   url: /categories/
