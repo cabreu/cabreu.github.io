@@ -1,3 +1,9 @@
+# Copyright: © 2023 by Carlos Abreu · Powered by HUGO
+# Copyright: ☛ © 2023 by Carlos Abreu · Powered by HUGO ☚
+# Copyright: ☞ © 2023 by Carlos Abreu ☜ ❖ ☞ Powered by HUGO ☜
+# Copyright: ☞ © 2023 by Carlos Abreu ❖ Powered by HUGO ☜
+Copyright: © 2023 by Carlos Abreu ❖ Powered by HUGO
+
 # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your 
 # sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: https://cabreu.github.io 
@@ -20,6 +26,9 @@ menu:
         - name: About
           url: /about/
           weight: 10
+        - name: Now
+          url: /now/
+          weight: 20
 
      # - name: Categories
         #   url: /categories/
@@ -45,7 +54,8 @@ params:
         enabled: true
         title: Carlos Abreu
         description: Polytechnic Institute of Viana do Castelo (IPVC), Portugal.
-        imageUrl: "/images/profile.jpeg"
+        # https://www.befunky.com
+        imageUrl: "/images/profile.png"
         imageTitle: Carlos Abreu
         #imageWidth: 120
         #imageHeight: 120
@@ -81,10 +91,10 @@ params:
     # change favicon in images folder (icon for web tab)
     assets:
           favicon: "/images/favicon.ico"
-          favicon16x16: "/images/favicon.png"
-          favicon32x32: "/images/favicon.png"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
           apple_touch_icon: "/images/apple-touch-icon.png"
-          safari_pinned_tab: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/safari-pinned-tab.svg"
 
 
 enableInlineShortcodes: true
